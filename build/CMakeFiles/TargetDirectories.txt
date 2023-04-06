@@ -1,0 +1,3 @@
+C:/Users/iST/Desktop/Cmaketrial/build/CMakeFiles/MyMathClass.dir
+C:/Users/iST/Desktop/Cmaketrial/build/CMakeFiles/edit_cache.dir
+C:/Users/iST/Desktop/Cmaketrial/build/CMakeFiles/rebuild_cache.dir
